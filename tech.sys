@@ -1,0 +1,5 @@
+This is my new machine learning code 
+a = 5
+b =6
+s = a+b
+print("sum is : ", s)
